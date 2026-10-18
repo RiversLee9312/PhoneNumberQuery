@@ -1,0 +1,56 @@
+{
+  "device": "OnePlus 11 (PHB110), Android 16",
+  "regionCount": 245,
+  "regionalNumberExamples": 489,
+  "localeSets": 25,
+  "languages": 24,
+  "unitTests": {
+    "tests": "8",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  "deviceTests": {
+    "tests": "11",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  "lintErrors": 0,
+  "lintWarnings": 27,
+  "apkBytes": 16281988,
+  "apkSha256": "f06acb69a67efe6b2f83a4c4352c94ed0271fe4a1a70028e7e1b094c2b7001c8",
+  "packagedChinaDataMatchesSource": true,
+  "finalPackagedApkChinaSmokePassed": true,
+  "verifiedAt": "2026-10-17",
+  "sourceCleanup": {
+    "date": "2026-10-18",
+    "unusedIconsRemoved": 2,
+    "unusedStringKeysRemoved": 7,
+    "translationEntriesRemoved": 175,
+    "unusedDevelopmentDependenciesRemoved": 3,
+    "duplicateLicenseRemoved": true,
+    "localeSets": 25,
+    "sharedStringKeys": 53,
+    "appBuildPassed": true,
+    "androidTestPackageBuildPassed": true,
+    "unitTests": [
+      {
+        "tests": 8,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0
+      }
+    ],
+    "lintErrors": 0,
+    "lintWarnings": 9,
+    "unusedResources": 0,
+    "originalApkPreserved": true,
+    "originalApkSha256": "f06acb69a67efe6b2f83a4c4352c94ed0271fe4a1a70028e7e1b094c2b7001c8",
+    "generatedDirectoriesRemoved": [
+      ".gradle",
+      ".kotlin",
+      "app/build"
+    ]
+  }
+}

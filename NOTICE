@@ -1,0 +1,15 @@
+Number Lookup
+Copyright 2026 RiversLee9312 and contributors
+
+Original application code and documentation are licensed under the Apache
+License, Version 2.0. See LICENSE.
+
+Third-party components retain their own copyrights and licenses. In particular,
+the bundled China phone-prefix database is Copyright (c) 2026 Jieeit and is
+distributed under the MIT License; it is not relicensed by this project.
+
+The application includes components from Google libphonenumber, AndroidX,
+JetBrains Kotlin, kotlinx libraries and annotations, Guava ListenableFuture,
+JSpecify, and Google Fonts Material Symbols.
+See THIRD_PARTY_NOTICES.md and app/src/main/assets/licenses/ for source links,
+attributions, and the full license texts displayed in the application.

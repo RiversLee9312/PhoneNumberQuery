@@ -1,0 +1,16 @@
+{
+  "asset": "china_phone.dat",
+  "format": "JPHN",
+  "formatVersion": 2,
+  "recordCount": 520170,
+  "dataUpdated": "2026-05",
+  "sizeBytes": 5207793,
+  "sha256": "7D0740136B98D7DBEE9A1C917E60D10453C739463898082D2CC1B9DCCB55D5BB",
+  "upstreamRepository": "https://github.com/jieeit/phone",
+  "upstreamCommit": "e963c60de92383ca2c32eb318b10c469b34d11a4",
+  "upstreamPath": "src/data/phone.dat",
+  "upstreamBlobSha": "c19e053a1fc3c4437c236c171e88b80a2392649f",
+  "license": "MIT",
+  "licenseAsset": "../licenses/jieeit-phone.txt",
+  "licenseUrl": "https://github.com/jieeit/phone/blob/e963c60de92383ca2c32eb318b10c469b34d11a4/LICENSE"
+}

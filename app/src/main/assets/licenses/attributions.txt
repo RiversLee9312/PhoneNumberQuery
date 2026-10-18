@@ -1,0 +1,38 @@
+Number lookup — third-party components
+
+Google libphonenumber 9.0.41, geocoder 3.41, carrier 2.41, prefixmapper 3.41
+https://github.com/google/libphonenumber
+Copyright The Libphonenumber Authors. Apache License 2.0.
+The license text is included in libphonenumber.txt.
+
+AndroidX Jetpack Compose, Material 3, Activity, Lifecycle and Core
+https://android.googlesource.com/platform/frameworks/support/
+Copyright The Android Open Source Project. Apache License 2.0.
+The Apache License 2.0 text is included in libphonenumber.txt.
+
+Kotlin, kotlinx.coroutines, kotlinx.serialization, and JetBrains annotations
+https://github.com/JetBrains/kotlin
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/Kotlin/kotlinx.serialization
+https://github.com/JetBrains/java-annotations
+Copyright JetBrains s.r.o. and Kotlin Programming Language contributors.
+Apache License 2.0. License text is included in libphonenumber.txt.
+
+Guava ListenableFuture 1.0
+https://github.com/google/guava
+Copyright The Guava Authors. Apache License 2.0.
+License text is included in libphonenumber.txt.
+
+JSpecify 1.0.0
+https://github.com/jspecify/jspecify
+Copyright the JSpecify Authors. Apache License 2.0.
+License text is included in libphonenumber.txt.
+
+Google Fonts Material Symbols
+https://github.com/google/material-design-icons
+Apache License 2.0. License text is included in material-symbols.txt.
+
+China phone prefix data (May 2026)
+https://github.com/jieeit/phone
+Copyright (c) 2026 Jieeit. MIT License.
+The license text is included in jieeit-phone.txt.
